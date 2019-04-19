@@ -5,9 +5,11 @@ Multidimensional scaling (MDS) with k parameter (number of clusters) optimizatio
 
 Objective Function to optimize k parameter (required)
 
-- Better Internal measures for obtained Clusters
-    In case of draw for k - 1 and/or k + 1:
-    - Better stability measures for one of both obtained cluster division
+- Better Internal measures for obtained Clusters:
+
+In case of draw for k - 1 and/or k + 1:
+
+- Better stability measures for one of both obtained cluster division
     
     
  
