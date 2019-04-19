@@ -3,7 +3,7 @@ Classical MDS with k parameter optimization (local minimum)
 
 Multidimensional scaling (MDS) with k parameter (number of clusters) optimization:
 
-Objective Function to optimize k parameter (required)
+Objective Function to optimize k parameter (required):
 
 - Better Internal measures for obtained Clusters:
 
